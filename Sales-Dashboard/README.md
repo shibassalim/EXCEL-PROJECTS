@@ -29,7 +29,7 @@ An interactive CRM Sales Follow-Up Dashboard built in Microsoft Excel to monitor
 ## Files
 
 - `Sales-Follow-Up-Dashboard.xlsx` – Source data and dashboard
-- `Sales Dashboard.png` – Dashboard preview
+- `Dashboard-Preview.png` – Dashboard preview
 
 ## Skills Demonstrated
 
